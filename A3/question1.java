@@ -1,7 +1,7 @@
 //-------------------------------------------------------
 //Assignment 3
 //Written by: Nicholas Yiphoiyen 40117237
-//For COMP248 Section EC – Fall 2020
+//For COMP248 Section EC â€“ Fall 2020
 //--------------------------------------------------------
 
 import java.util.Random;

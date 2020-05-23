@@ -1,7 +1,7 @@
 // -------------------------------------------------------
 // Assignment 4
 // Written by: Nicholas Yiphoiyen 40117237
-// For COMP248 Section EC – Fall2019
+// For COMP248 Section EC â€“ Fall2019
 // --------------------------------------------------------
 //board size -> player names -> multiple rounds until winner
 //check energy level first as no movement if no energy
